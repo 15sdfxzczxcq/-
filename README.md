@@ -13,11 +13,11 @@
 
 ```c
 |  build  // 编译环境 可以查看官方教程  
-|--.res
+|  res
 |    calibration
 |    model  // 存放AI模型
 |    samples  // 查看图像用来分析
-|--.src
+|   src
 |    config
 |          config.json  // 调参文件
 |          config_ppncnms.json
