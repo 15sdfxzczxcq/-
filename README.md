@@ -47,3 +47,13 @@
 |         mapping.cpp
 |         motion.cpp
 |         preprocess.cpp
+
+车车视频
+  https://www.bilibili.com/video/BV13aYdzyEBm/?spm_id_from=333.1387.homepage.video_card.click&vd_source=705f55a9909ab23c2756c59533358682
+
+特别感谢
+    哈尔滨工业大学 紫丁香九队
+    集美大学 QWER
+    中原工学院 逐鹿—希望车没事
+    南京信息工程大学  RUN ACCM2025(开源地址:https://github.com/hccc1203/RunACCM2025?tab=readme-ov-file)
+    大连交通大学
