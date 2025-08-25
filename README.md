@@ -12,24 +12,24 @@
 大佬说的队
 
 ```c
-|  build(编译环境 可以查看官方教程)  
+|  build  // 编译环境 可以查看官方教程  
 |--.res
 |    calibration
-|    model(存放AI模型)
-|    samples(查看图像用来分析)
+|    model  // 存放AI模型
+|    samples  // 查看图像用来分析
 |--.src
 |    config
-|          config.json(调参文件)
+|          config.json  // 调参文件
 |          config_ppncnms.json
 |          config_ppncnna.json
 |    include
 |          common.hpp
-|          detection.hpp(模型检测)
+|          detection.hpp  // 模型检测
 |          json.hpp
-|          motion.hpp(调参文件)
-|          uart.hpp(串口)
+|          motion.hpp  // 调参文件
+|          uart.hpp  // 串口
 |    src  
-|         detection(模型视觉)
+|         detection  //模型视觉
 │            bridge.cpp // 桥识别及处理
 │            bridge.h
 │            catering.cpp // 汉堡识别及处理
@@ -43,9 +43,9 @@
 │            obstacle.cpp // 障碍区识别及处理
 │            obstacle.h
 |         recognition
-|            crossroad.cpp //十字
-|            ring.cpp  //环岛
-|            tracking  //循迹
+|            crossroad.cpp // 十字
+|            ring.cpp  // 环岛
+|            tracking  // 循迹
 |         controlcenter.cpp  // 中线处理
 |         detection.cpp
 |         icar.cpp  // 主函数
